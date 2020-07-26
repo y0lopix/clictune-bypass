@@ -1,5 +1,5 @@
 Usage:
 
 ```
-python bypass.py http://example.com/
+python bypass.py URL1 [URL2 ...]
 ```
